@@ -1,0 +1,29 @@
+.elementor-684 .elementor-element.elementor-element-8a7e6af {--display: flex;--gap: 0px 0px;--row-gap: 0px;--column-gap: 0px;--flex-wrap: wrap;--margin-top: 0px;--margin-bottom: 100px;--margin-left: 0px;--margin-right: 0px;--padding-top: 0px;--padding-bottom: 0px;--padding-left: 0px;--padding-right: 0px;}
+.elementor-684 .elementor-element.elementor-element-7736275 {width: 100%;max-width: 100%;}
+.elementor-684 .elementor-element.elementor-element-bb87194 {width: 100%;max-width: 100%;}
+.elementor-684 .elementor-element.elementor-element-bb87194 > .elementor-widget-container {margin: 10px 0px 0px 15px;}
+.elementor-684 .elementor-element.elementor-element-bb87194 .elementskit-section-title-wraper .elementskit-section-title {color: var(--e-global-color-primary);font-size: 15px;font-weight: 500;}
+.elementor-684 .elementor-element.elementor-element-bb87194 .elementskit-section-title-wraper .elementskit-section-title > span {color: #ff9913;}
+.elementor-684 .elementor-element.elementor-element-bb87194 .elementskit-section-title-wraper .elementskit-section-title:hover > span {color: var(--e-global-color-kadence2);}
+.elementor-684 .elementor-element.elementor-element-bb87194 .elementskit-section-title-wraper .elementskit-section-title span:last-child, .elementor-684 .elementor-element.elementor-element-bb87194 .elementskit-section-title-wraper .elementskit-section-title > span {font-size: 15px;font-weight: 500;}
+.elementor-684 .elementor-element.elementor-element-bb87194 .elementskit-section-title-wraper .elementskit-border-divider {width: 60px;background: var(--e-global-color-primary);}
+.elementor-684 .elementor-element.elementor-element-bb87194 .elementskit-section-title-wraper .elementskit-border-divider.elementskit-style-long {width: 60px;height: 4px;color: var(--e-global-color-primary);}
+.elementor-684 .elementor-element.elementor-element-bb87194 .elementskit-section-title-wraper .elementskit-border-star {width: 60px;height: 4px;color: var(--e-global-color-primary);}
+.elementor-684 .elementor-element.elementor-element-bb87194 .elementskit-section-title-wraper .elementskit-border-divider, .elementor-684 .elementor-element.elementor-element-bb87194 .elementskit-border-divider::before {height: 4px;}
+.elementor-684 .elementor-element.elementor-element-bb87194 .elementskit-section-title-wraper .elementskit-border-divider:before {background-color: var(--e-global-color-primary);color: var(--e-global-color-primary);}
+.elementor-684 .elementor-element.elementor-element-bb87194 .elementskit-section-title-wraper .elementskit-border-star:after {background-color: var(--e-global-color-primary);}
+.elementor-684 .elementor-element.elementor-element-7c25dae {--grid-template-columns: repeat(0,auto);width: 100%;max-width: 100%;--icon-size: 20px;--grid-column-gap: 0px;--grid-row-gap: 0px;}
+.elementor-684 .elementor-element.elementor-element-7c25dae .elementor-widget-container {text-align: left;}
+.elementor-684 .elementor-element.elementor-element-7c25dae > .elementor-widget-container {margin: 10px 0px 0px 0px;}
+.elementor-684 .elementor-element.elementor-element-7c25dae .elementor-social-icon {background-color: rgba(255,153,19,0);}
+.elementor-684 .elementor-element.elementor-element-7c25dae .elementor-social-icon i {color: #718096;}
+.elementor-684 .elementor-element.elementor-element-7c25dae .elementor-social-icon svg {fill: #718096;}
+.elementor-684 .elementor-element.elementor-element-7c25dae .elementor-social-icon:hover {background-color: #718096;}
+.elementor-684 .elementor-element.elementor-element-7c25dae .elementor-social-icon:hover i {color: #fff;}
+.elementor-684 .elementor-element.elementor-element-7c25dae .elementor-social-icon:hover svg {fill: #fff;}
+@media (max-width:1024px) {.elementor-684 .elementor-element.elementor-element-bb87194 {width: 100%;max-width: 100%;}
+	.elementor-684 .elementor-element.elementor-element-7c25dae {width: 100%;max-width: 100%;}}
+@media (max-width:767px) {.elementor-684 .elementor-element.elementor-element-bb87194 .elementskit-section-title-wraper .elementskit-section-title {font-size: 10px;}
+	.elementor-684 .elementor-element.elementor-element-bb87194 .elementskit-section-title-wraper .elementskit-section-title span:last-child, .elementor-684 .elementor-element.elementor-element-bb87194 .elementskit-section-title-wraper .elementskit-section-title > span {font-size: 10px;}
+	.elementor-684 .elementor-element.elementor-element-7c25dae > .elementor-widget-container {margin: 5px 0px 0px 10px;}
+	.elementor-684 .elementor-element.elementor-element-7c25dae {--icon-size: 12px;}}
